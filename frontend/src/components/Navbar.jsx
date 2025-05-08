@@ -34,6 +34,7 @@ const Navbar = ({ onSearchNote, handleClearSearch, isLandingPage }) => {
     setIsMobileDropdownOpen(false);
     setIsDesktopDropdownOpen(false);
     navigate("/");
+    window.location.reload();
   };
 
   const handleSearchChange = (value) => {

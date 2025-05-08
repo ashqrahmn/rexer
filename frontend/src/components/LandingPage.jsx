@@ -50,7 +50,7 @@ const LandingPage = () => {
             Hey {userInfo?.fullName || "there"}!
           </h1>
           <h2 className="text-3xl md:text-4xl font-bold text-primary mb-2 whitespace-nowrap">
-            Welcome to our Notes
+            Welcome to our notes
           </h2>
           <p className="text-gray-600 mb-4">
             Your personal space to write, plan, and organize everything that matters most.
