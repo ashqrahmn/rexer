@@ -1,7 +1,6 @@
 # reXer - A Full-Stack Note-Taking Web Application
 
-**reXer** is a full-stack web application that allows users to create, organize, and manage notes with features like tagging, color-coding, and pinning. Built with React for the frontend and Node.js for the backend, this app provides a seamless and intuitive interface for managing thoughts, tasks, and ideas.
-
+**reXer** is a full-stack web application that allows users to create, organize, and manage notes with features like tagging, color-coding, and pinning. Built with React for the frontend and Node.js for the backend, this app makes it easy to keep track of your thoughts, tasks, and ideas.
 ---
 
 ## Features
