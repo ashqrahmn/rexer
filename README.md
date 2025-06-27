@@ -71,7 +71,7 @@
 
 3. **Start the frontend development server**:
     ```bash
-    npm start
+    npm run dev
     ```
 
    Your frontend will now be available at `http://localhost:8000`.
