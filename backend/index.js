@@ -352,6 +352,10 @@ app.get("/search-notes", authenticateToken, async (req, res) => {
     }
 });
 
+app.get("/ping", (req, res) => {
+  res.status(200).send("Ping");
+});
+
 const PORT = process.env.PORT;
 
 app.listen(PORT, "0.0.0.0", () => {
